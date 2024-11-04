@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>ABOUT ME _ detail</title>
+    </head>
+
+    <body>
+        <h1><a herf = "https://www.instagram.com/0ooo0nz/" target = "_blank">권은재</a></h1>
+        <h2><a herf = "about">detail</a></h2>
+        <ol>
+            <li>나이</li>
+            <p>2004.09.14 - 21살</p>
+            <li>사는 지역</li>
+            <p>경기도 고양시 일산</p>
+            <li>전공</li>
+            <p>컴퓨터공학과</p>
+            <li>MBTI</li>
+            <p>ISTP</p>
+            <li>나를 소개하는 인사말</li>
+            <p>안녕하세요, 권은재입니다. 점점 더 어려워지는게 느껴지는데.. 열심히 해봐요!</p>
+            <li>나에 관한 TMI 최소 한가지</li>
+            <p>과제가 너무 흘러넘쳐서 오늘 밤을 새야합니다.....</p>
+        </ol>
+    </body>
+</html>
